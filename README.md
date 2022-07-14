@@ -46,15 +46,10 @@ python .\python web_app\app.py
 <br/>
 <b>Step 3.</b> Wait until the same output is shown in your terminal.
 <br/>
-![caption](https://github.com/fvea/malicious_url_classifier/blob/main/terminal_output.PNG)
+![image]("https://github.com/fvea/malicious_url_classifier/blob/main/terminal_output.PNG")
 <br/>
 <br/>
 <b>Step 4.</b> Copy the link address to your browser (http://127.0.0.1:5000/) and you should see the web app as shown in the image.
 <br/>
-![caption](https://github.com/fvea/malicious_url_classifier/blob/main/web_app_sample_ui.PNG)
+![image]("https://github.com/fvea/malicious_url_classifier/blob/main/web_app_sample_ui.PNG")
 <br/>
-
-
-
-
-
