@@ -8,8 +8,8 @@ from feature_extraction import extract_lexical_features
 
 #Initialize the flask App
 app = Flask(__name__)
-model = joblib.load('deploheroku\logreg.pkl')
-preprocessing = joblib.load('deploheroku\pipeline.pkl')  
+model = joblib.load('web_app\logreg.pkl')
+preprocessing = joblib.load('web_app\pipeline.pkl')  
 
 #default page of our web-app
 @app.route('/')
