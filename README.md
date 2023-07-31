@@ -1,5 +1,7 @@
 # Malicious URL Classifier
 
+A web application for classifying malicious URLs based on Lexical, Host-based, and Content Features of the URL and a logistic regression machine learning model.
+
 ## Resources:
 * https://github.com/NakulLakhotia/deploheroku (web app inspiration)
 * https://towardsdatascience.com/extracting-feature-vectors-from-url-strings-for-malicious-url-detection-cbafc24737a (feature extraction)
